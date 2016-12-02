@@ -4,6 +4,7 @@
 		<members>camping</members>
 		<members>campingHeader</members>
 		<members>campingList</members>
+		<members>campingListItem</members>
 		<name>AuraDefinitionBundle</name>
 	</types>
 	<version>34.0</version>

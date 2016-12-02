@@ -338,5 +338,107 @@
         },
         "DefType": "HELPER",
         "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ad4100000034DwCAI"
+        },
+        "Id": "0Ad4100000034DwCAI",
+        "AuraDefinitionBundleId": "0Ab410000000xlKCAQ",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Ab410000000xlKCAQ"
+            },
+            "DeveloperName": "campingListItem"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ad4100000034E1CAI"
+        },
+        "Id": "0Ad4100000034E1CAI",
+        "AuraDefinitionBundleId": "0Ab410000000xlKCAQ",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Ab410000000xlKCAQ"
+            },
+            "DeveloperName": "campingListItem"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ad4100000034DrCAI"
+        },
+        "Id": "0Ad4100000034DrCAI",
+        "AuraDefinitionBundleId": "0Ab410000000xlKCAQ",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Ab410000000xlKCAQ"
+            },
+            "DeveloperName": "campingListItem"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ad4100000034E6CAI"
+        },
+        "Id": "0Ad4100000034E6CAI",
+        "AuraDefinitionBundleId": "0Ab410000000xlKCAQ",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Ab410000000xlKCAQ"
+            },
+            "DeveloperName": "campingListItem"
+        },
+        "DefType": "RENDERER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ad4100000034DmCAI"
+        },
+        "Id": "0Ad4100000034DmCAI",
+        "AuraDefinitionBundleId": "0Ab410000000xlKCAQ",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Ab410000000xlKCAQ"
+            },
+            "DeveloperName": "campingListItem"
+        },
+        "DefType": "DOCUMENTATION",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ad4100000034DhCAI"
+        },
+        "Id": "0Ad4100000034DhCAI",
+        "AuraDefinitionBundleId": "0Ab410000000xlKCAQ",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Ab410000000xlKCAQ"
+            },
+            "DeveloperName": "campingListItem"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
     }
 ]
