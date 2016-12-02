@@ -1,0 +1,16 @@
+{
+    "projectName": "LightningComponentTrailhead",
+    "username": "scottmc526@email.com",
+    "id": "0a19daf0-b8ca-11e6-85b8-e3a8bb073b75",
+    "namespace": "",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "Users/Scott/workspace/redpoint",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
